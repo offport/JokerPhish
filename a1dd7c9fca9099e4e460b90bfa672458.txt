@@ -1,0 +1,4 @@
+06/03/2022 10:58:54 pm, facebook, ::1, facebookusername@hotmail.com:password1234
+06/03/2022 10:59:22 pm, gmail, ::1, mygoogle@gmail.com:pass@gas
+06/03/2022 11:00:02 pm, instagram, ::1, instacool:coolpasswordbra
+06/03/2022 11:00:26 pm, linkedin, ::1, professional@mail.me:superstrongassword
