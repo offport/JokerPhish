@@ -47,5 +47,4 @@ Go to http://localhost/admin.php and login with `admin:changeme`
 ![](cred.png) 
 
 You can change the credentials in the `auth.php` file.
-# JokerShell
-# JokerPhish
+
